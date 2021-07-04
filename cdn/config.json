@@ -1,0 +1,15 @@
+{
+  "picBed": {
+    "uploader": "github",
+    "current": "github",
+    "transformer": "path",
+    "github": {
+      "repo": "amzimg/imgs",
+      "branch": "main",
+      "token": "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",
+      "path": "cdn/",
+      "customUrl": "https://amzimg.github.io/imgs"
+    }
+  },
+  "picgoPlugins": {}
+}
